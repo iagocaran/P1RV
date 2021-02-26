@@ -1,6 +1,6 @@
 # P1RV - OpenGL game
 
-An C++ and OpenGL game made for the first project of Virtual Reality option at École Centrale de Nantes.
+A C++ and OpenGL game made for the first project of Virtual Reality option at École Centrale de Nantes.
 
 ## Introduction
 
@@ -32,7 +32,7 @@ git clone https://github.com/Reuh/P1RV.git
 
 ## Usage
 
-The projects generates an executable `P1RV`. You can move using ZQSD/WASD and the mouse. Fire using left click. Press escape to exit the game. 
+The project generates an executable `P1RV`. You can move using ZQSD/WASD and the mouse. Fire using left click. Press escape to exit the game. 
 
 ## Contact
 
